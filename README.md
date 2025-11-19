@@ -50,6 +50,28 @@ These data are **not linearly separable**, so the project uses:
 
 ---
 
+## Visualizations
+
+### Basic Logistic Regression
+
+#### 1. Input Data
+![Basic Data](images/Figure_1.png)
+
+#### 2. Decision Boundary
+![Basic Boundary](images/Figure_2.png)
+
+---
+
+### Regularized Logistic Regression
+
+#### 1. Input Data
+![Regularized Data](images/Figure_3.png)
+
+#### 2. Decision Boundary
+![Regularized Boundary](images/Figure_4.png)
+
+---
+
 ## Project Structure
 
 ```
@@ -124,3 +146,4 @@ python model_regularized.py
 - Python 3.9+
 - numpy
 - matplotlib
+
