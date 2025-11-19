@@ -160,7 +160,7 @@ initial_w = np.random.rand(mapped_X.shape[1]) - 0.5
 initial_b = 1.0
 
 # Set regularization parameter lambda_ (you can try varying this)
-lambda_ = 0.01
+lambda_ = 0.001
 
 # Some gradient descent settings
 iterations = 10000
